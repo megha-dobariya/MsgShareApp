@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="show_toast">Afficher le toast</string>
+    <string name="enter_msg">Entrez votre message</string>
+    <string name="send_msg_next_act">Envoyer un message à l\'activité suivante</string>
+    <string name="share_app">Partager avec d\'autres applications</string>
+    <string name="recycler_demo">RecyclerVoir la démo</string>
+    <string name="button_was_clicked">Le bouton a été cliqué</string>
+
+</resources>
